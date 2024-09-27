@@ -1,4 +1,4 @@
-/* Dark Mode with Animated Gradient Background */
+
 body {
     font-family: 'Arial', sans-serif;
     background: linear-gradient(135deg, #222222,#242424, #363636);
@@ -14,7 +14,6 @@ body {
     position: relative;
 }
 
-/* Animated gradient */
 @keyframes gradientBackground {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
@@ -70,7 +69,6 @@ h1 {
     color: #f0f0f0;
 }
 
-/* Particle Effect */
 .particle {
     position: absolute;
     background-color: rgba(255, 255, 255, 0.8);
