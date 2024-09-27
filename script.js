@@ -1,5 +1,5 @@
 
-const targetDateTime = '2024-09-28T02:20:00'; 
+const targetDateTime = '2024-09-28T01:45:00'; 
 const targetTimeZoneOffset = 2 * 60; 
 const tickSound = document.getElementById('tickSound');
 
